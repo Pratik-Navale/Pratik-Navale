@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/pratiknavale18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratiknavale18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratik navale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik navale" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik2127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik2127" height="30" width="40" /></a>
+<a href="https://instagram.com/pratik_2127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik2127" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
