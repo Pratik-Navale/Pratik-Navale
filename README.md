@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Navale</h1>
 <h3 align="center">A passionate frontend developer from India and Welcome to my github profile where i share about my new projects.</h3>
 <h3 align="left" style="color:black">About me</h3>
+
 - 🔭 I’m currently pursuing **B.Tech in computer engineering from Pillai College Of Engineerign New Panvel**
 
 - 🌱 I’m currently learning **Machine Learning**
