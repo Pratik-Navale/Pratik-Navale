@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in computer engineering from Pillai College Of Engineerign New Panvel**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **pratiknavale21@gmail.com**
 
